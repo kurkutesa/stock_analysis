@@ -1,0 +1,6 @@
+numpy
+matplotlib==3.*
+yfinance
+bokeh
+pandas
+pandas-datareader
