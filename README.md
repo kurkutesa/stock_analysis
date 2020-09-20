@@ -1,5 +1,5 @@
 # stock_analysis
-This repo is a fun repo for analysing Stock Market Data.
+This repo is a fun repo for analysing Stock Market Data.<br>
 [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/requirements/master)
 A Binder-compatible repo with a `requirements.txt` file.
 
