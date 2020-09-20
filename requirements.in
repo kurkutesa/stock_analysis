@@ -4,3 +4,4 @@ yfinance
 bokeh
 pandas
 pandas-datareader
+pandas-bokeh
